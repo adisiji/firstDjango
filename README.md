@@ -1,0 +1,2 @@
+# firstDjango
+Latihan Pertama Django
